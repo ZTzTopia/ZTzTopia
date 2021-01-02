@@ -41,6 +41,10 @@
   <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
+<p>
+  <img alt="Saweria" src="https://img.shields.io/badge/-Saweria-5d2b90?style=flat-square&logo=asede&logoColor=white" />
+</p>
+
 <!--
 **ZTzTopia/ZTzTopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
