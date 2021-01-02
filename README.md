@@ -35,13 +35,13 @@
   </br><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ZTzTopia&countColorcountColor=ffffff&countColor=%234287f5" alt="Visitor" />
 </p>
 
-<h2>💻 Social media</h2>
+<h2>💻 Social Media</h2>
 <p>
   <a href="https://youtube.com/ZTzTopia702"><img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-c4302b?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
-<h2>☕ Buy Me A Coffee</h2>
+<h2>🌱 Donate Me</h2>
 <p>
   <a href="https://saweria.co/ZTzTopia"><img alt="Saweria" src="https://img.shields.io/badge/-Saweria-eb9e34?style=flat-square&logo=asede&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/ZTzTopia"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/-Buy Me A Coffee-5F7FFF?style=flat-square&logo=buy-me-a-coffee&logoColor=white" /></a>
