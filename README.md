@@ -3,7 +3,7 @@
 
 <h2>Social media</h2>
 <p>
-  <a href="https://youtube.com/ZTzTopia702"><img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-f90606?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://youtube.com/ZTzTopia702"><img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-c4302b?style=flat-square&logo=youtube&logoColor=white" /></a>
   <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
