@@ -1,13 +1,6 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
-<h3 align="center">A developer from Indonesia, Tangerang</h3>
+<h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
 
-<h2>Social media</h2>
-<p>
-  <a href="https://youtube.com/ZTzTopia702"><img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-c4302b?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
-</p>
-
-<h2>🚀💻 Technologies & Tools</h2>
+<h2>🚀 Technologies & Tools</h2>
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
@@ -27,11 +20,22 @@
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
 </p>
 
+<h2>🔖 Projects</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=LatieDiscordBot&layout=compact&theme=react&hide_border=true" />
+</p>
+ 
 <h2>⚡ GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact&theme=react&hide_border=true" alt="Top language" />
   </br><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ZTzTopia&countColorcountColor=ffffff&countColor=%234287f5" alt="Visitor" />
+</p>
+
+<h2>💻 Social media</h2>
+<p>
+  <a href="https://youtube.com/ZTzTopia702"><img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-c4302b?style=flat-square&logo=youtube&logoColor=white" /></a>
+  <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
 <!--
