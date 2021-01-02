@@ -10,8 +10,8 @@
 <p>
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-ffe312?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-45ff12?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f2ff00?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-32eb00?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
