@@ -3,15 +3,15 @@
 
 <h2>Social media</h2>
 <p>
-  <img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ZTzTopia702" />
+  <img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-f90606?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ZTzTopia702" />
 </p>
 
-<h2>Technologies</h2>
+<h2>🚀💻 Technologies & Tools</h2>
 <p>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-ffee38?style=flat-square&logo=javascript" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-81ff38?style=flat-square&logo=Node.js" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
@@ -23,11 +23,11 @@
   <img alt="Android" src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android" />
 </p>
 
-<h2>Stats</h2>
+<h2>⚡ GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true" alt="Github status" />
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact" alt="Top language" />
-  </br><img src="https://visitor-badge.laobi.icu/badge?page_id=rafi0101.rafi0101" alt="Visitor Badge" />
+  </br><img src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" alt="Visitor Badge" />
 </p>
 
 <!--
