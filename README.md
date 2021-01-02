@@ -2,24 +2,25 @@
 <h3 align="center">A developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" /> </p>
 
-<h2>Social media:</h2>
+<h2>Social media</h2>
 <p>
   <img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ZTzTopia702" />
 </p>
 
-<h2>Technologies:</h2>
+<h2>Technologies</h2>
 <p>
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
-  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku" />
 </p>
 
+<h2>Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true" alt="ZTzTopia" />
   </br>
