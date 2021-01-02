@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact&theme=react&hide_border=true" alt="Top language" />
-  </br><img src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" alt="Visitor Badge" />
+  </br><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ZTzTopia&countColorcountColor=ffffff&countColor=%234287f5" alt="Visitor" />
 </p>
 
 <!--
