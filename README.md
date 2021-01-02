@@ -21,8 +21,9 @@
 </p>
 
 <h2>🔖 Projects</h2>
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=LatieDiscordBot&layout=compact&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=FiTimestamp&layout=compact&theme=react&hide_border=true" />
 </p>
  
 <h2>⚡ GitHub Stats</h2>
