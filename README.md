@@ -42,7 +42,7 @@
 </p>
 
 <p>
-  <img alt="Saweria" src="https://img.shields.io/badge/-Saweria-5d2b90?style=flat-square&logo=asede&logoColor=white" />
+  <a href="https://saweria.com/ZTzTopia"><img alt="Saweria" src="https://img.shields.io/badge/-Saweria-eb9e34?style=flat-square&logo=asede&logoColor=white" /></a>
 </p>
 
 <!--
