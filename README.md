@@ -17,6 +17,7 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku" />
 </p>
 
 <p align="center">
