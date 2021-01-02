@@ -2,7 +2,7 @@
 <h3 align="center">A developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" /> </p>
 
-<h3>Things i code with</h3>
+<h3>Languages:</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-45b8d8?style=flat-square&logo=lua&logoColor=white" />
@@ -11,9 +11,10 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia)
-![Github stats](https://github-readme-stats.vercel.app/api?username=ZTzTopia&show_icons=true&theme=radical)](https://github.com/ZTzTopia/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p>
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true" alt="ZTzTopia" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact" alt="ZTzTopia" />
+</p>
 
 <!--
 **ZTzTopia/ZTzTopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
