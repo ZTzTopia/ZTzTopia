@@ -1,10 +1,14 @@
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+<h1>Hi there<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
 
-<p>Welcome to my page! </br>
+<p>Welcome to my page! </br> i'm ZTzTopia, 
 
 <h3>Things I code with</h3>
 <p>
-  <img alt="React" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Lua" src="https://img.shields.io/badge/-Lua-45b8d8?style=flat-square&logo=lua&logoColor=white" />
+  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
+  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia)
