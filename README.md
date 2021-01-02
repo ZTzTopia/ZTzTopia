@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
 <h3 align="center">A developer from Indonesia</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" /> </p>
 
 <h2>Social media</h2>
 <p>
@@ -9,6 +8,8 @@
 
 <h2>Technologies</h2>
 <p>
+  <img alt="Git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" />
@@ -18,13 +19,15 @@
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=Php" />
 </p>
 
 <h2>Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true" alt="ZTzTopia" />
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact" alt="ZTzTopia" />
+  </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact" alt="ZTzTopia" />
+  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTzTopia" alt="ZTzTopia" />
+  </br><img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" />
 </p>
 
 <!--
