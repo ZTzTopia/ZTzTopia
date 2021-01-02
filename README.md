@@ -29,8 +29,8 @@
 
 <h2>⚡ GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=gruvbox" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=gruvbox" alt="Top language" />
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=compact&theme=gruvbox" alt="Github status" />
+  </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact&theme=gruvbox" alt="Top language" />
   </br><img src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" alt="Visitor Badge" />
 </p>
 
