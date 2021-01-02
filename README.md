@@ -44,7 +44,7 @@
 <h2>☕ Buy Me A Coffee</h2>
 <p>
   <a href="https://saweria.co/ZTzTopia"><img alt="Saweria" src="https://img.shields.io/badge/-Saweria-eb9e34?style=flat-square&logo=asede&logoColor=white" /></a>
-  <a href="https://img.shields.io/badge/-Buy Me A Coffee-5F7FFF?style=flat-square&logo=buy-me-a-coffee&logoColor=white"></a>
+  <a href="https://buymeacoffe.com/ZTzTopia"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/-Buy Me A Coffee-5F7FFF?style=flat-square&logo=buy-me-a-coffee&logoColor=white" /></a>
 </p>
 
 <!--
