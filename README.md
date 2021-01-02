@@ -41,8 +41,9 @@
   <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
+<h2>☕ Buy Me A Coffee</h2>
 <p>
-  <a href="https://saweria.com/ZTzTopia"><img alt="Saweria" src="https://img.shields.io/badge/-Saweria-eb9e34?style=flat-square&logo=asede&logoColor=white" /></a>
+  <a href="https://saweria.co/ZTzTopia"><img alt="Saweria" src="https://img.shields.io/badge/-Saweria-eb9e34?style=flat-square&logo=asede&logoColor=white" /></a>
 </p>
 
 <!--
