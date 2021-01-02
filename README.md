@@ -20,7 +20,8 @@
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-6567a5?style=flat-square&logo=heroku&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCoide-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Sublime Text 3" src="https://img.shields.io/badge/-Sublime Text 3-FF9800?style=flat-square&logo=sublime-text&logoColor=white" />
 </p>
 
 <h2>⚡ GitHub Stats</h2>
