@@ -1,9 +1,9 @@
-### Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
 <h3 align="center">A developer from Indonesia, Tangerang</h3>
 
 <h2>Social media</h2>
 <p>
-  <img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-f90606?style=flat-square&logo=youtube&logoColor=white" href="https://youtube.com/ZTzTopia702" />
+  <a href="https://youtube.com/ZTzTopia702"><img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-f90606?style=flat-square&logo=youtube&logoColor=white" /></a>
 </p>
 
 <h2>🚀💻 Technologies & Tools</h2>
