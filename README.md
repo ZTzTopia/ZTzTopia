@@ -2,12 +2,12 @@
 
 <p>Welcome to my page! </br> i'm ZTzTopia, 
 
-<h3>Things I code with</h3>
+<h3>Things i code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-45b8d8?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-45b8d8?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
+  <img alt="html" src="https://img.shields.io/badge/-Html-43853d?style=flat-square&logo=html&logoColor=white" />
+  <img alt="css" src="https://img.shields.io/badge/-Css-43853d?style=flat-square&logo=css&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
 
