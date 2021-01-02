@@ -12,7 +12,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-5f574f?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-68a063?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -29,8 +29,8 @@
 
 <h2>⚡ GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact" alt="Top language" />
+  <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=gruvbox" alt="Github status" />
+  </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=gruvbox" alt="Top language" />
   </br><img src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" alt="Visitor Badge" />
 </p>
 
