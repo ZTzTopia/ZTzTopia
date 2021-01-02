@@ -19,7 +19,8 @@
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-black?style=flat-square&logo=heroku" />
-  <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=Php" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php" />
+  <img alt="Android" src="https://img.shields.io/badge/-Android-black?style=flat-square&logo=android" />
 </p>
 
 <h2>Stats</h2>
@@ -27,7 +28,6 @@
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true" alt="ZTzTopia" />
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact" alt="ZTzTopia" />
   </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTzTopia" alt="ZTzTopia" />
-  </br><img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" />
 </p>
 
 <!--
