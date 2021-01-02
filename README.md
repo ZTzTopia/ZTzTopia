@@ -2,8 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=ZTzTopia)
 
-[![Athallah github stats](https://github-readme-stats.vercel.app/api?username=ZTzTopia&show_icons=true&theme=radical)](https://github.com/ZTzTopia/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=AthallahDzaki&repo=SAMPMobile)](https://github.com/AthallahDzaki/SAMPMobile)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ZTzTopia&show_icons=true&theme=radical)](https://github.com/ZTzTopia/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
