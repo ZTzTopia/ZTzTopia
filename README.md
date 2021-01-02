@@ -1,6 +1,6 @@
-<h1>Hi there<h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
-
-<p>Welcome to my page! </br> i'm ZTzTopia, 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
+<h3 align="center">A developer from Indonesia</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" /> </p>
 
 <h3>Things i code with</h3>
 <p>
