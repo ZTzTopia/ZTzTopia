@@ -11,7 +11,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-ff8438?style=flat-square&logo=git&logoColor=white" />
   <img alt="Github" src="https://img.shields.io/badge/-Github-2e2e2e?style=flat-square&logo=github&logoColor=white" />
   <img alt="Lua" src="https://img.shields.io/badge/-Lua-5f574f?style=flat-square&logo=lua&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-d6d204?style=flat-square&logo=javascript&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-68a063?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
