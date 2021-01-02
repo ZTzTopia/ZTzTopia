@@ -2,12 +2,12 @@
 <h3 align="center">A developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" /> </p>
 
-<h3>Social media:</h3>
+<h2>Social media:</h2>
 <p>
   <img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ZTzTopia702" />
 </p>
 
-<h3>Languages:</h3>
+<h2>Languages:</h2>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js" />
