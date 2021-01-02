@@ -2,8 +2,9 @@
 <h3 align="center">A developer from Indonesia</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ZTzTopia" alt="ZTzTopia" /> </p>
 
+<h3>Social media:</h3>
 <p>
-  <img alt="Youtube" src="https://img.shields.io/badge/-koolkanna-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ZTzTopia702" />
+  <img alt="Youtube" src="https://img.shields.io/badge/-ZTzTopia-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/c/ZTzTopia702" />
 </p>
 
 <h3>Languages:</h3>
@@ -15,6 +16,7 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap" />
   <img alt="MySql" src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql" />
+  <img alt="Github" src="https://img.shields.io/badge/-Github-black?style=flat-square&logo=github" />
 </p>
 
 <p align="center">
