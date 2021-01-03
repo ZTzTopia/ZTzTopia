@@ -1,6 +1,6 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
 
-![status](https://img.shields.io/badge/status-up-brightgreen) 
+![status](https://github.com/ZTzTopia/ZTzTopia/workflows/wakatime-stats/badge.svg) 
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![](https://img.shields.io/badge/Relationship-Single-red) 
 ![](https://img.shields.io/static/v1?label=wechat&message=lizheming&color=7BB32E&logo=wechat) 
@@ -8,7 +8,6 @@
 
 Hi guys, I'm **ZTzTopia**. I am a developer from Indonesia, Jakarta. I'm currently working on SA:MP Client Mobile Developer.
 I have some works with **JavaScript**, **Node.js**, contact me if you have same interesting or some questions!
-Joined Github {{ ACCOUNT_AGE }} years ago.
 
 <h2>🚀 Technologies</h2>
 <p>
