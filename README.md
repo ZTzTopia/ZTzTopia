@@ -50,7 +50,7 @@ I have some works with **JavaScript**, **Node.js**, contact me if you have same 
   <a href="https://discord.gg/W6CssGTTK6"><img alt="Discord" src="https://img.shields.io/badge/-Discord-7289da?style=flat-square&logo=discord&logoColor=white" /></a>
 </p>
 
-<h2>🌱 Fell Free To Donate Me</h2>
+<h2>🌱 Feel Free To Donate Me</h2>
 <p>
   <a href="https://saweria.co/ZTzTopia"><img alt="Saweria" src="https://img.shields.io/badge/-Saweria-eb9e34?style=flat-square&logo=nologo&logoColor=white" /></a>
   <a href="https://buymeacoffee.com/ZTzTopia"><img alt="Buy Me A Coffee" src="https://img.shields.io/badge/-Buy Me A Coffee-5F7FFF?style=flat-square&logo=buy-me-a-coffee&logoColor=white" /></a>
