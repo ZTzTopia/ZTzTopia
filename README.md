@@ -6,7 +6,7 @@
   <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=github.com/ZTzTopia" />
 </p>
 
-Hi guys, I'm **ZTzTopia**. I am a developer from <img alt="Indonesia Flag" src="https://www.flaticon.com/svg/static/icons/svg/197/197559.svg" width="13" /> Indonesia, Jakarta. I'm currently working on SA:MP Client Mobile Developer.
+Hi guys, I'm **ZTzTopia**. I am a developer from <img alt="Indonesia Flag" src="https://www.flaticon.com/svg/static/icons/svg/197/197559.svg" width="13" /> **Indonesia, Jakarta**. I'm currently working on SA:MP Client Mobile Developer.
 I have some works with **JavaScript**, **Node.js**, contact me if you have same interesting or some questions!
 
 <h2>🚀 Technologies</h2>
