@@ -6,8 +6,8 @@
 ![](https://img.shields.io/static/v1?label=wechat&message=lizheming&color=7BB32E&logo=wechat) 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
 
-Hi guys, I'm **Li Zheming**. I am a JavaScript developer from Beijing, China. I'm currently working on @75team as a Font-End engineer.  
-I have some works with **JavaScript**, **Node.js** and **SVG**, contact me if you have same interesting or some questions!
+Hi guys, I'm **ZTzTopia**. I am a developer from Indonesia, Jakarta. I'm currently working on SA:MP Client Mobile Developer.
+I have some works with **JavaScript**, **Node.js**, contact me if you have same interesting or some questions!
 
 <h2>🚀 Technologies</h2>
 <p>
