@@ -16,7 +16,7 @@
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=white" />
   <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-DD4814?style=flat-square&logo=codeigniter&logoColor=white" />
   <img alt="Android" src="https://img.shields.io/badge/-Android-3ddc84?style=flat-square&logo=android&logoColor=white" />
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Visual Studio Code" src="https://img.shields.io/badge/-Visual Studio Code-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Sublime Text 3" src="https://img.shields.io/badge/-Sublime Text 3-FF9800?style=flat-square&logo=sublime-text&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CC3534?style=flat-square&logo=npm&logoColor=white" />
