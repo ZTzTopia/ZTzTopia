@@ -4,7 +4,7 @@
 ![Gender](https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey) 
 ![](https://img.shields.io/badge/Relationship-Single-red) 
 ![](https://img.shields.io/static/v1?label=wechat&message=lizheming&color=7BB32E&logo=wechat) 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/lizheming)
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/ZTzTopia)
 
 Hi guys, I'm **ZTzTopia**. I am a developer from Indonesia, Jakarta. I'm currently working on SA:MP Client Mobile Developer.
 I have some works with **JavaScript**, **Node.js**, contact me if you have same interesting or some questions!
@@ -42,7 +42,6 @@ I have some works with **JavaScript**, **Node.js**, contact me if you have same 
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
   </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTzTopia&theme=react&hide_border=true" alt="Wakatime" />
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact&theme=react&hide_border=true" alt="Top language" />
-  </br><img src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ZTzTopia&countColorcountColor=ffffff&countColor=%234287f5" alt="Visitor" />
 </p>
 
 <h2>💻 Social Media</h2>
