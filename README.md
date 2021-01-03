@@ -1,7 +1,7 @@
 <h1> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm ZTzTopia</h1>
 
 <p>
-  <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey />
+  <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
   <img alt="Relationship" src="https://img.shields.io/badge/Relationship-Single-red" />
   <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=github.com/ZTzTopia" />
 </p>
