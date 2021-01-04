@@ -3,7 +3,7 @@
 <p>
   <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
   <img alt="Relationship" src="https://img.shields.io/badge/Relationship-Single-red" />
-  <img alt="Visitor Count" src="https://visitor-badge.glitch.me/badge?page_id=ZTzTopia" />
+  <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" />
 </p>
 
 Hi guys, I'm **ZTzTopia**. I am a developer from <img alt="Indonesia Flag" src="https://www.flaticon.com/svg/static/icons/svg/197/197559.svg" width="13" /> **Indonesia, Jakarta**. I'm currently working on SA:MP Client Mobile Developer.
