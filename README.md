@@ -30,7 +30,7 @@ I have some works with **JavaScript**, **Node.js**, contact me if you have same 
   <img alt="Sublime Text 3" src="https://img.shields.io/badge/-Sublime Text 3-FF9800?style=flat-square&logo=sublime-text&logoColor=white" />
   <img alt="Visual Studio" src="https://img.shields.io/badge/-Visual Studio-5d2b90?style=flat-square&logo=visual-studio&logoColor=white" />
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CC3534?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Codeigniter" src="https://img.shields.io/badge/-Codeigniter-dd4814?style=flat-square&logo=codeigniter&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
 <h2>🔖 Projects</h2>
