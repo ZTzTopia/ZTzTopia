@@ -2,7 +2,7 @@
 
 <p>
   <img alt="Status" src="https://img.shields.io/badge/gender-%F0%9F%A4%B5-lightgrey" />
-  <img alt="Relationship" src="https://img.shields.io/badge/relationship-Single-red" />
+  <img alt="Relationship" src="https://img.shields.io/badge/relationship-single-red" />
   <img alt="Visitor Count" src="https://visitor-badge.laobi.icu/badge?page_id=ZTzTopia" />
 </p>
 
