@@ -36,8 +36,8 @@ I have some works with **JavaScript**, **Node.js**, and **C++**, contact me if y
 
 <h2>🔖 Projects</h2>
 <p>
+  <a href="https://github.com/ZTzTopia/SAMPRewrite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=SAMPRewrite&layout=compact&theme=react&hide_border=true" /></a>
   <a href="https://github.com/ZTzTopia/LatieDiscordBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=LatieDiscordBot&layout=compact&theme=react&hide_border=true" /></a>
-  <a href="https://github.com/ZTzTopia/FiTimestamp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=FiTimestamp&layout=compact&theme=react&hide_border=true" /></a>
 </p>
  
 <h2>⚡ GitHub Stats</h2>
