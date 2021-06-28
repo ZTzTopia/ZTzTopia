@@ -32,6 +32,7 @@ I have some works with **JavaScript**, **Node.js**, and **C++**, contact me if y
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CC3534?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
 </p>
 
 <h2>🔖 Projects</h2>
