@@ -33,11 +33,11 @@ I have some works with **JavaScript**, **Node.js**, and **C++**, contact me if y
   <img alt="Laravel" src="https://img.shields.io/badge/-Laravel-fb503b?style=flat-square&logo=laravel&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=jquery&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1AA2D4?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
 
 <h2>🔖 Projects</h2>
 <p>
-  <a href="https://github.com/ZTzTopia/SAMPRewrite"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=SAMPRewrite&layout=compact&theme=react&hide_border=true" /></a>
   <a href="https://github.com/ZTzTopia/LatieDiscordBot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ZTzTopia&repo=LatieDiscordBot&layout=compact&theme=react&hide_border=true" /></a>
 </p>
  
