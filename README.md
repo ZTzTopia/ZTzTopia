@@ -7,7 +7,7 @@
 </p>
 
 Hi guys, I'm **ZTzTopia**. I am a developer from <img alt="Indonesia Flag" src="https://www.flaticon.com/svg/static/icons/svg/197/197559.svg" width="13" /> **Indonesia, Jakarta**. I'm currently working on SA-MP Server Developer.
-I have some works with **JavaScript**, **Node.js**, and **C++**, contact me if you have same interesting or some questions!
+I have some works with **JavaScript**, **Node.js**, **Java** and **C++**, contact me if you have same interesting or some questions!
 </br>📫 How to reach me: <a href="https://vk.com/ztztopia">VK.com</a> (Discord: https://discord.gg/UC794fX)
 
 <h2>🚀 Technologies</h2>
