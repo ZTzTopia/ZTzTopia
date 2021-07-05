@@ -35,7 +35,7 @@ I have some works with **JavaScript**, **Node.js**, **Java** and **C++**, contac
   <img alt="Java" src="https://img.shields.io/badge/-Java-f89820?style=flat-square&logo=java&logoColor=white" />
   <img alt="C#" src="https://img.shields.io/badge/-C%23%0A-68217A?style=flat-square&logo=csharp&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/-C-4285F4?style=flat-square&logo=c&logoColor=white" />
-  <img alt="Kotlin" src=https://img.shields.io/badge/-Kotlin-1AA2D4?style=flat-square&logo=kotlin&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1AA2D4?style=flat-square&logo=kotlin&logoColor=white" />
 </p>
 
 <h2>🔖 Projects</h2>
