@@ -44,7 +44,7 @@ I have some works with **JavaScript**, **Node.js**, **Java** and **C++**, contac
 <h2>⚡ GitHub Stats</h2>
 <p align="left">
   <img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ZTzTopia&show_icons=true&layout=compact&theme=react&hide_border=true" alt="Github status" />
-  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTzTopia&theme=react&hide_border=true" alt="Wakatime" />
+  </br><img src="https://github-readme-stats.vercel.app/api/wakatime?username=ZTzTopia&theme=react&hide_border=true&layout=compact" alt="Wakatime" />
   </br><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZTzTopia&layout=compact&theme=react&hide_border=true" alt="Top language" />
 </p>
 
