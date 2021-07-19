@@ -37,6 +37,7 @@ I have some works with **JavaScript**, **Node.js**, **Java** and **C++**, contac
   <img alt="C" src="https://img.shields.io/badge/-C-4285F4?style=flat-square&logo=c&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-1AA2D4?style=flat-square&logo=kotlin&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 <h2>🔖 Projects</h2>
