@@ -1,0 +1,44 @@
+name: Metrics
+on:
+  schedule:
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+    
+      # ======================================================================================
+      # 🧩 PLUGINS
+      # ======================================================================================
+      
+      # ======================================================================================
+      # 📰 Recent activity
+
+      - name: 📰 Recent activity
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_activity: yes
+          plugin_activity_days: 0
+          output_action: pull-request
+          delay: 20
+          
+      # ======================================================================================
+      # ⏰ WakaTime plugin
+
+      - name: ⏰ WakaTime
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: ZTzTopia
+          output_action: pull-request-squash
+          delay: 20
