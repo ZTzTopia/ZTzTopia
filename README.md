@@ -22,8 +22,8 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 <div align="center">
- <img align="top" src="https://github.com/ZTzTopia/ZTzTopia/blob/main/metrics.plugin.activity.svg" width="400" /> 
- <img align="top" src="https://github.com/ZTzTopia/ZTzTopia/blob/main/metrics.plugin.wakatime.svg" width="400" />
+ <img align="top" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.activity.svg" width="400" /> 
+ <img align="top" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.wakatime.svg" width="400" />
 </div>
 
 ## 💻 Connect with me
