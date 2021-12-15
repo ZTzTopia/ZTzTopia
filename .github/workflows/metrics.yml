@@ -21,7 +21,7 @@ jobs:
           markdown: TEST.md
           markdown_cache: .cache
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_activity: yes
+          plugin_activity: no
           plugin_activity_days: 0
           output_action: pull-request
           delay: 20
