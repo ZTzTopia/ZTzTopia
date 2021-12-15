@@ -7,23 +7,23 @@
   <%_ } else { _%>
     <%_ // left _%>
     <%_ if (plugins.wakatime.sections.includes("time")) { _%>
-  ~<%= f(Math.ceil(plugins.wakatime.time.total)) %> coding hour<%= s(plugins.wakatime.time.total) %> recorded
+  - ~<%= f(Math.ceil(plugins.wakatime.time.total)) %> coding hour<%= s(plugins.wakatime.time.total) %> recorded
     <%_ } _%>
     <%_ if ((plugins.wakatime.sections.includes("projects"))&&(plugins.wakatime.projects?.length)) { _%>
-  Working on <%= f.ellipsis(plugins.wakatime.projects[0]?.name, {length:16}) %>
+  - Working on <%= f.ellipsis(plugins.wakatime.projects[0]?.name, {length:16}) %>
     <%_ } _%>
     <%_ if ((plugins.wakatime.sections.includes("languages"))&&(plugins.wakatime.languages?.length)) { _%>
-  Mostly coding in <%= plugins.wakatime.languages[0]?.name %>
+  - Mostly coding in <%= plugins.wakatime.languages[0]?.name %>
     <%_ } _%>
     <%_ // right _%>
     <%_ if (plugins.wakatime.sections.includes("time")) { _%>
-  ~<%= f(Math.ceil(plugins.wakatime.time.daily)) %> hour<%= s(plugins.wakatime.time.daily) %> of coding per day
+  - ~<%= f(Math.ceil(plugins.wakatime.time.daily)) %> hour<%= s(plugins.wakatime.time.daily) %> of coding per day
     <%_ } _%>
     <%_ if ((plugins.wakatime.sections.includes("editors"))&&(plugins.wakatime.editors?.length)) { _%>
-  Coding with <%= plugins.wakatime.editors[0]?.name %>
+  - Coding with <%= plugins.wakatime.editors[0]?.name %>
     <%_ } _%>
     <%_ if ((plugins.wakatime.sections.includes("os"))&&(plugins.wakatime.os?.length)) { _%>
-  Using <%= plugins.wakatime.os[0]?.name %>
+  - Using <%= plugins.wakatime.os[0]?.name %>
     <%_ } _%>
 
 ```
@@ -31,7 +31,7 @@
     <%_ for (let i = 0; i < sections.length; i+=slots) { _%>
         <%_ for (let j = 0; j < slots; j++) { const key = sections[i+j] ; const section = plugins.wakatime[key] ; if (!key) continue _%>
   <%= // nothing %>
-  **<%= {languages:"Language activity", projects:"Projects activity", editors:"Code editors", os:"Operating systems"}[key] %>**
+  <%= {languages:"💬 Language activity", projects:"Projects activity", editors:"Code editors", os:"💻 Operating systems"}[key] %>
           <%_ if (section?.length) { _%>
             <%_ for (const {name, percent, total} of section) { _%>
               <%_ let string = name ; let time = "" _%>
@@ -51,10 +51,10 @@
               <%_ for (let k = 0; k < 20 - time.length; k++) { _%>
                 <%_ string += " " _%>
               <%_ } _%>
-              <%_ for (let k = 0; k < Math.round(100 * percent); k++) { _%>
+              <%_ for (let k = 0; k < Math.round(25 * percent); k++) { _%>
                 <%_ string += "█" _%>
               <%_ } _%>
-              <%_ for (let k = Math.round(100 * percent); k <= 100; k++) { _%>
+              <%_ for (let k = Math.round(25 * percent); k <= 25; k++) { _%>
                 <%_ string += "░" _%>
               <%_ } _%>
               <%_ string += "  " + Math.round(100 * percent) + "%" _%>
