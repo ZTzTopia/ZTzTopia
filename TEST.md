@@ -1,7 +1,4 @@
 <% if (plugins.activity) { %>
-  <%- await include(`partials/activity.ejs`) %>
+  <%- await include(`partials/activitys.ejs`) %>
 <% } %>
 
-<% if (plugins.wakatime) { %>
-  <%- await include(`https://raw.githubusercontent.com/ZTzTopia/ZTzTopia/master/partials/wakatime.ejs`) %>
-<% } %>
