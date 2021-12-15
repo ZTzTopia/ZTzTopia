@@ -1,70 +1,45 @@
+# Hello there 👋
+
+<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
+
+Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discordapp.com/attachments/773831752271527946/912953010408271902/323372.png" width="13" /> **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
+- 🔭 I’m currently working on something cool.
+- 🌱 I’m currently learning C/C++
+- 🤔 I’m looking for help with [GTInternalAndroid](https://github.com/ZTzTopia/GTInternalAndroid)
+- 💬 Ask me about anything.
+- 📫 How to reach me: [zentay36@gmail.com](mailto:zentay36@gmail.com)
+
+## 🧑‍💻Languages & tools
+<div align="left">
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/c/c-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cmake/cmake-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vscode/vscode-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/jetbrains/jetbrains-original.svg" width="32" />
+</div>
+
+## ⚡ My stats
 <%- await include(`partials/activity.ejs`) %>
+<%- await include(`partials/wakatime.ejs`) %>
 
-<%_ if (plugins.wakatime) { _%>
-**⏰ WakaTime <%= plugins.wakatime?.days ? `(over last ${{7:"week", 30:"month", 180:"6 months", 365:"year"}[plugins.wakatime.days]})` : "" %>**
-  <%_ if (plugins.wakatime.error) { _%>
-    <%= plugins.wakatime.error.message %>
-  <%_ } else { _%>
-    <%_ // left _%>
-    <%_ if (plugins.wakatime.sections.includes("time")) { _%>
-  - ~<%= f(Math.ceil(plugins.wakatime.time.total)) %> coding hour<%= s(plugins.wakatime.time.total) %> recorded
-    <%_ } _%>
-    <%_ if ((plugins.wakatime.sections.includes("projects"))&&(plugins.wakatime.projects?.length)) { _%>
-  - Working on <%= f.ellipsis(plugins.wakatime.projects[0]?.name, {length:16}) %>
-    <%_ } _%>
-    <%_ if ((plugins.wakatime.sections.includes("languages"))&&(plugins.wakatime.languages?.length)) { _%>
-  - Mostly coding in <%= plugins.wakatime.languages[0]?.name %>
-    <%_ } _%>
-    <%_ // right _%>
-    <%_ if (plugins.wakatime.sections.includes("time")) { _%>
-  - ~<%= f(Math.ceil(plugins.wakatime.time.daily)) %> hour<%= s(plugins.wakatime.time.daily) %> of coding per day
-    <%_ } _%>
-    <%_ if ((plugins.wakatime.sections.includes("editors"))&&(plugins.wakatime.editors?.length)) { _%>
-  - Coding with <%= plugins.wakatime.editors[0]?.name %>
-    <%_ } _%>
-    <%_ if ((plugins.wakatime.sections.includes("os"))&&(plugins.wakatime.os?.length)) { _%>
-  - Using <%= plugins.wakatime.os[0]?.name %>
-    <%_ } _%>
+## 💻 Connect with me
+[![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ZTzTopia702)
+![Discord](https://img.shields.io/badge/-ZTz%234123-7289da?style=flat-square&logo=discord&logoColor=white)
+[![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/W6CssGTTK6)
 
-```
-    <%_ { const sections = plugins.wakatime.sections.filter(x => /-graphs$/.test(x)).map(x => x.replace(/-graphs$/, "")), slots = 2 + large _%>
-    <%_ for (let i = 0; i < sections.length; i+=slots) { _%>
-        <%_ for (let j = 0; j < slots; j++) { const key = sections[i+j] ; const section = plugins.wakatime[key] ; if (!key) continue _%>
-  <%= // nothing %>
-  <%= {languages:"💬 Language activity", projects:"Projects activity", editors:"Code editors", os:"💻 Operating systems"}[key] %>
-          <%_ if (section?.length) { _%>
-            <%_ for (const {name, percent, total} of section) { _%>
-              <%_ let string = name ; let time = "" _%>
-              <%_ if (name.length > 25) { _%>
-                <%_ string = name.slice(0, 22) + "..." _%>
-              <%_ } _%>
-              <%_ string += " " _%> 
-              <%_ for (let k = 0; k < 25 - name.length; k++) { _%>
-                <%_ string += " " _%>
-              <%_ } _%>
-              <%_ string += "~ " _%>
-              <%_ if (total > (60 * 60)) { _%> 
-                <%_ time = f(Math.ceil(total / (60 * 60))) + " hour" + s(total / (60 * 60)) + " " _%>
-              <%_ } _%>
-              <%_ time += f(Math.ceil(total % (60 * 60) / 60)) + " min" + s(total % (60 * 60) / 60) _%>
-              <%_ string += time; _%>
-              <%_ for (let k = 0; k < 20 - time.length; k++) { _%>
-                <%_ string += " " _%>
-              <%_ } _%>
-              <%_ for (let k = 0; k < Math.round(25 * percent); k++) { _%>
-                <%_ string += "█" _%>
-              <%_ } _%>
-              <%_ for (let k = Math.round(25 * percent); k <= 25; k++) { _%>
-                <%_ string += "░" _%>
-              <%_ } _%>
-              <%_ string += "  " + Math.round(100 * percent) + "%" _%>
-  <%= string %>
-            <%_ } _%>
-          <%_ } else { _%>
-            No WakaTime activity
-          <%_ } _%>
-        <%_ } _%>
-    <%_ }} _%>
-  <%_ } _%>
-```
-<%_ } _%>
+<!--
+**ZTzTopia/ZTzTopia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
