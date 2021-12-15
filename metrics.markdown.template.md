@@ -1,6 +1,6 @@
 <%- await include(`partials/activity.ejs`) %>
 
-<% if (plugin.wakatime) { %> 
+<% if (plugins.wakatime) { %> 
   **⏰ WakaTime <%= plugins.wakatime?.days ? `(over last ${{7:"week", 30:"month", 180:"6 months", 365:"year"}[plugins.wakatime.days]})` : "" %>**
   <% if (plugins.wakatime.error) { %>
     <%= plugins.wakatime.error.message %>
