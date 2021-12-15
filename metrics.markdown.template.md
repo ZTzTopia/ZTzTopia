@@ -33,10 +33,18 @@
           <% if (section?.length) { %>
             <% for (const {name, percent, total} of section) { %>
               <% let string = name %>
-              <% if (name.length > 25) { string = name.slice(0, 22) + "..." } %>
-              <% string = " " ; for (let k = 0; k < 25 - name.length; k++) { string += " " } %>
-              <% string += "~ " ; if (total > (60 * 60)) { string += f(Math.ceil(total / (60 * 60))) + " hour" + s(total / (60 * 60)) + " "; } %>
-              <% string += f(Math.ceil(total % (60 * 60) / 60)) + " min" + s(total % (60 * 60) / 60); %>
+              <% if (name.length > 25) { %>
+                <% string = name.slice(0, 22) + "..." %>
+              <% } %>
+              <% string += " " %> 
+              <% for (let k = 0; k < 25 - name.length; k++) { %>
+                <% string += " " %>
+              <% } %>
+              <% string += "~ " %>
+              <% if (total > (60 * 60)) { %> 
+                <% string += f(Math.ceil(total / (60 * 60))) + " hour" + s(total / (60 * 60)) + " " %>
+              <% } %>
+              <% string += f(Math.ceil(total % (60 * 60) / 60)) + " min" + s(total % (60 * 60) / 60) %>
   <%= string %>
             <% } %>
           <% } else { %>
