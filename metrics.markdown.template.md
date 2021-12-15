@@ -32,7 +32,7 @@
   **<%= {languages:"Language activity", projects:"Projects activity", editors:"Code editors", os:"Operating systems"}[key] %>**
           <% if (section?.length) { %>
             <% for (const {name, percent, total} of section) { %>
-              <% string = name %>
+              <% let string = name %>
               <% if (name.length > 25) { string = name.slice(0, 22) + '...'; }>
               <% for (let k = 0; k < 25 - name.length; k++) { %>
                 <% string += " " %>
