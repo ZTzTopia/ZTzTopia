@@ -1,1 +1,3 @@
-<%- await include(`partials/activity.ejs`) %>
+<% if (plugins.activity) { %>
+  <%- await include(`partials/activity.ejs`) %>
+<% } %>
