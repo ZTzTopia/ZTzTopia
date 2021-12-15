@@ -1,4 +1,6 @@
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#e86da15](https://github.com/ZTzTopia/ZTzTopia/commit/e86da15) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#2d93761](https://github.com/ZTzTopia/ZTzTopia/commit/2d93761) Test 17
 * ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
@@ -9,8 +11,6 @@
   * [#288ec0d](https://github.com/ZTzTopia/ZTzTopia/commit/288ec0d) Test 14
   * [#8d0c0c6](https://github.com/ZTzTopia/ZTzTopia/commit/8d0c0c6) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
   * [#4aa0b84](https://github.com/ZTzTopia/ZTzTopia/commit/4aa0b84) Test 14
-* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#091fe4f](https://github.com/ZTzTopia/ZTzTopia/commit/091fe4f) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
 
 
 
@@ -43,40 +43,392 @@
   **Projects activity**
           
             
-  GTLauncher
-  ~105k hours
+  GTLauncher...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~30 hours
             
-  Profile
-  ~499 hours
+  Profile...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
-  GTIntercherAndroid
-  ~291 hours
+  GTIntercherAndroid...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
-  cpp001
-  ~83 hours
+  cpp001...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
-  src
-  ~65 hours
+  src...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
           
         
   **Language activity**
           
             
-  C++
-  ~75k hours
+  C++...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~21 hours
             
-  Java
-  ~19.3k hours
+  Java...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~6 hours
             
-  ObjectiveC
-  ~7.56k hours
+  ObjectiveC...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~3 hours
             
-  Properties
-  ~2.72k hours
+  Properties...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
-  Makefile
-  ~532 hours
+  Makefile...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
           
         
@@ -85,19 +437,116 @@
   **Code editors**
           
             
-  Android Studio
-  ~105k hours
+  Android Studio...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~30 hours
             
-  VS Code
-  ~677 hours
+  VS Code...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~1 hours
             
           
         
   **Operating systems**
           
             
-  Windows
-  ~106k hours
+  Windows...
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+   
+              
+  ~30 hours
             
           
         
