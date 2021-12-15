@@ -27,19 +27,18 @@
     <% } %>
 
     <% { const sections = plugins.wakatime.sections.filter(x => /-graphs$/.test(x)).map(x => x.replace(/-graphs$/, "")), slots = 2 + large %>
-      <% for (let i = 0; i < sections.length; i+=slots) { %>
-          <% for (let j = 0; j < slots; j++) { const key = sections[i+j] ; const section = plugins.wakatime[key] ; if (!key) continue %>
+    <% for (let i = 0; i < sections.length; i+=slots) { %>
+        <% for (let j = 0; j < slots; j++) { const key = sections[i+j] ; const section = plugins.wakatime[key] ; if (!key) continue %>
   **<%= {languages:"Language activity", projects:"Projects activity", editors:"Code editors", os:"Operating systems"}[key] %>**
-            <% if (section?.length) { %>
-              <% for (const {name, percent, total} of section) { %>
+          <% if (section?.length) { %>
+            <% for (const {name, percent, total} of section) { %>
   <%= name %>
   ~<%= f(Math.ceil(total)) %> hour<%= s(total) %>
-              <% } %>
-            <% } else { %>
-              No activity
             <% } %>
+          <% } else { %>
+            No activity
           <% } %>
-      <% }} %>
-    <% } %>
-  <% } %> 
-<% } %> 
+        <% } %>
+    <% }} %>
+  <% } %>
+<% } %>
