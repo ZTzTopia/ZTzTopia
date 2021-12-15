@@ -18,7 +18,7 @@ jobs:
         with:
           template: markdown
           filename: metrics.markdown.full.md
-          markdown: TEST.md
+          markdown: metrics.markdown.template.md
           markdown_cache: .cache
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
