@@ -14,12 +14,11 @@ jobs:
 
       - name: 📒 Markdown template (with plugins)
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           template: markdown
           filename: metrics.markdown.full.md
           markdown: metrics.markdown.template.md
-          markdown_cache: .cache
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
           plugin_activity_days: 0
@@ -38,7 +37,7 @@ jobs:
 
       - name: 📰 Recent activity
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.activity.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -52,7 +51,7 @@ jobs:
 
       - name: ⏰ WakaTime
         if: ${{ success() || failure() }}
-        uses: lowlighter/metrics@master
+        uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.wakatime.svg
           token: NOT_NEEDED
