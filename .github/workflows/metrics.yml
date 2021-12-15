@@ -24,7 +24,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 0
           output_action: pull-request
-          delay: 20
     
       # ======================================================================================
       # 🧩 PLUGINS
@@ -43,7 +42,6 @@ jobs:
           plugin_activity: yes
           plugin_activity_days: 0
           output_action: pull-request
-          delay: 20
           
       # ======================================================================================
       # ⏰ WakaTime plugin
@@ -59,4 +57,3 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_user: ZTzTopia
           output_action: pull-request-squash
-          delay: 20

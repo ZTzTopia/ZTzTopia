@@ -1,4 +1,4 @@
 <% if (plugins.activity) { %>
-  <%- await include(`partials/activitys.ejs`) %>
+  <%- await include(`partials/activity.ejs`) %>
 <% } %>
 
