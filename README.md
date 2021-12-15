@@ -23,6 +23,8 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
 * ➡️ Pushed 1 commit in [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics) on branch `master`
+  * [#5830deb](https://github.com/ZTzTopia/metrics/commit/5830deb) Update wakatime.ejs
+* ➡️ Pushed 1 commit in [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics) on branch `master`
   * [#c89aae1](https://github.com/ZTzTopia/metrics/commit/c89aae1) Update wakatime.ejs
 * ➡️ Pushed 4 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#6398d20](https://github.com/ZTzTopia/ZTzTopia/commit/6398d20) Wrong lol
@@ -39,8 +41,6 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
   * [#0b0f168](https://github.com/ZTzTopia/ZTzTopia/commit/0b0f168) Delete metrics.plugin.wakatime.svg
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#31b2913](https://github.com/ZTzTopia/ZTzTopia/commit/31b2913) Delete metrics.plugin.activity.svg
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#9b6e86e](https://github.com/ZTzTopia/ZTzTopia/commit/9b6e86e) Done
 
 **⏰ WakaTime (over last week)**
 * ~30 coding hours recorded
@@ -57,6 +57,7 @@ Profile                   ~9 mins              ░░░░░░░░░░░
 GTIntercherAndroid        ~5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 cpp001                    ~2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 src                       ~2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
+
 💬 Language activity
 C++                       ~21 hours 50 mins    ██████████████████░░░░░░░░  70%
 Java                      ~6 hours 23 mins     █████░░░░░░░░░░░░░░░░░░░░░  18%
@@ -67,6 +68,7 @@ Makefile                  ~9 mins              ░░░░░░░░░░░
 Code editors
 Android Studio            ~30 hours 27 mins    █████████████████████████░  99%
 VS Code                   ~12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░░  1%
+
 💻 Operating systems
 Windows                   ~30 hours 38 mins    █████████████████████████░  100%
 ```
