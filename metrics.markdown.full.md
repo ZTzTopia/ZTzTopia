@@ -1,5 +1,7 @@
 **[📰 Recent activity](https://github.com/ZTzTopia)**
 * ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#31b4a4f](https://github.com/ZTzTopia/ZTzTopia/commit/31b4a4f) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
+* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#3567000](https://github.com/ZTzTopia/ZTzTopia/commit/3567000) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#e9c5dbf](https://github.com/ZTzTopia/ZTzTopia/commit/e9c5dbf) Test 20
@@ -7,8 +9,6 @@
   * [#3014afd](https://github.com/ZTzTopia/ZTzTopia/commit/3014afd) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
 * ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#e86da15](https://github.com/ZTzTopia/ZTzTopia/commit/e86da15) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#2d93761](https://github.com/ZTzTopia/ZTzTopia/commit/2d93761) Test 17
 
 
 
@@ -43,38 +43,212 @@
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
+               
+                
               
-                  ~ 30 hours 22 mins
+              
+  GTLauncher                ~ 30 hours 22 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-                     ~ 9 mins
+              
+  Profile                   ~ 9 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-          ~ 5 mins
+              
+  GTIntercherAndroid        ~ 5 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-                      ~ 2 mins
+              
+  cpp001                    ~ 2 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-                         ~ 2 mins
+              
+  src                       ~ 2 mins
             
           
         
@@ -83,38 +257,234 @@
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
+               
+                
               
-                         ~ 21 hours 50 mins
+              
+  C++                       ~ 21 hours 50 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
+               
+                
               
-                        ~ 6 hours 23 mins
+              
+  Java                      ~ 6 hours 23 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
+               
+                
               
-                  ~ 3 hours 6 mins
+              
+  ObjectiveC                ~ 3 hours 6 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-                  ~ 46 mins
+              
+  Properties                ~ 46 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-                    ~ 9 mins
+              
+  Makefile                  ~ 9 mins
             
           
         
@@ -125,17 +495,81 @@
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
+               
+                
               
-              ~ 30 hours 27 mins
+              
+  Android Studio            ~ 30 hours 27 mins
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
               
-                     ~ 12 mins
+              
+  VS Code                   ~ 12 mins
             
           
         
@@ -144,10 +578,50 @@
             
               
               
+               
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
+              
+                
               
               
+               
+                
               
-                     ~ 30 hours 38 mins
+              
+  Windows                   ~ 30 hours 38 mins
             
           
         
