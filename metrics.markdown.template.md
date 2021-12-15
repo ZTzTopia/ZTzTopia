@@ -32,11 +32,15 @@
   **<%= {languages:"Language activity", projects:"Projects activity", editors:"Code editors", os:"Operating systems"}[key] %>**
           <% if (section?.length) { %>
             <% for (const {name, percent, total} of section) { %>
-  <%= name.slice(0, 22) + '...'; %>
+              <% string = name %>
+              <% if (name.length > 25) { string = name.slice(0, 22) + '...'; }>
               <% for (let k = 0; k < 25 - name.length; k++) { %>
-  <%= " " %>
+                <% string += " " %>
               <% } %>
-  ~<%= f(Math.ceil(total / (60 * 60))) %> hour<%= s(total/ (60 * 60)) %>
+              <% string += "~ " %>
+              <% if (total / (60 * 60) < 0) { string += f(Math.ceil(total / (60 * 60))) + " hour" + s(total / (60 * 60)); } %>
+              <% string += " " + f(Math.ceil(total / 60)) + " min" + s(total / 60); %>
+  <%= string %>
             <% } %>
           <% } else { %>
             No WakaTime activity
