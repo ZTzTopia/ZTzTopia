@@ -20,10 +20,9 @@ jobs:
           filename: metrics.markdown.full.md
           markdown: TEST.md
           markdown_cache: .cache
-          token: NOT_NEEDED
-          plugin_wakatime: yes
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          plugin_wakatime_user: ZTzTopia
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_activity: yes
+          plugin_activity_days: 0
           output_action: pull-request
           delay: 20
     
