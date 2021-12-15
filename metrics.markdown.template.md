@@ -26,13 +26,15 @@
   Using <%= plugins.wakatime.os[0]?.name %>
     <%_ } _%>
 
+```
     <%_ { const sections = plugins.wakatime.sections.filter(x => /-graphs$/.test(x)).map(x => x.replace(/-graphs$/, "")), slots = 2 + large _%>
     <%_ for (let i = 0; i < sections.length; i+=slots) { _%>
         <%_ for (let j = 0; j < slots; j++) { const key = sections[i+j] ; const section = plugins.wakatime[key] ; if (!key) continue _%>
+  <%= // nothing %>
   **<%= {languages:"Language activity", projects:"Projects activity", editors:"Code editors", os:"Operating systems"}[key] %>**
           <%_ if (section?.length) { _%>
             <%_ for (const {name, percent, total} of section) { _%>
-              <%_ let string = name _%>
+              <%_ let string = name ; let time = "" _%>
               <%_ if (name.length > 25) { _%>
                 <%_ string = name.slice(0, 22) + "..." _%>
               <%_ } _%>
@@ -42,11 +44,20 @@
               <%_ } _%>
               <%_ string += "~ " _%>
               <%_ if (total > (60 * 60)) { _%> 
-                <%_ string += f(Math.ceil(total / (60 * 60))) + " hour" + s(total / (60 * 60)) + " " _%>
+                <%_ time = f(Math.ceil(total / (60 * 60))) + " hour" + s(total / (60 * 60)) + " " _%>
               <%_ } _%>
-              <%_ string += f(Math.ceil(total % (60 * 60) / 60)) + " min" + s(total % (60 * 60) / 60) _%>
-              <div class="bar" style="width: <%= percent*80 %>%; background-color: var(--color-calendar-graph-day-L<%= Math.ceil(percent/0.25) %>-bg)"></div>
-              <%_ string += " " + Math.round(100 * percent) + "%" _%>
+              <%_ time += f(Math.ceil(total % (60 * 60) / 60)) + " min" + s(total % (60 * 60) / 60) _%>
+              <%_ string += time; _%>
+              <%_ for (let k = 0; k < 20 - time.length; k++) { _%>
+                <%_ string += " " _%>
+              <%_ } _%>
+              <%_ for (let k = 0; k < Math.round(100 * percent); k++) { _%>
+                <%_ string += "█" _%>
+              <%_ } _%>
+              <%_ for (let k = Math.round(100 * percent); k <= 100; k++) { _%>
+                <%_ string += "░" _%>
+              <%_ } _%>
+              <%_ string += "  " + Math.round(100 * percent) + "%" _%>
   <%= string %>
             <%_ } _%>
           <%_ } else { _%>
@@ -55,4 +66,5 @@
         <%_ } _%>
     <%_ }} _%>
   <%_ } _%>
+```
 <%_ } _%>
