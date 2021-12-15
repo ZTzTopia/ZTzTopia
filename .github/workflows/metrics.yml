@@ -7,6 +7,24 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
+
+      # ======================================================================================
+      # 🖼️ TEMPLATES
+      # ======================================================================================
+
+      - name: 📒 Markdown template (with plugins)
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          template: markdown
+          filename: metrics.markdown.full.md
+          markdown: https://raw.githubusercontent.com/ZTzTopia/ZTzTopia/master/TEST.md
+          token: NOT_NEEDED
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: ZTzTopia
+          output_action: pull-request
+          delay: 20
     
       # ======================================================================================
       # 🧩 PLUGINS
