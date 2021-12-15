@@ -18,7 +18,8 @@ jobs:
         with:
           template: markdown
           filename: metrics.markdown.full.md
-          markdown: test.md
+          markdown: TEST.md
+          markdown_cache: .cache
           token: NOT_NEEDED
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
