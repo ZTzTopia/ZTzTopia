@@ -3,5 +3,5 @@
 <% } %>
 
 <% if (plugins.wakatime) { %>
-  <%- await include(`partials/wakatime.ejs`) %>
+  <%- await include(`https://raw.githubusercontent.com/ZTzTopia/ZTzTopia/master/partials/wakatime.ejs`) %>
 <% } %>
