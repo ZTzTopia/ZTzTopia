@@ -14,7 +14,7 @@ jobs:
 
       - name: 📒 Markdown template (with plugins)
         if: ${{ success() || failure() }}
-        uses: lowlighter/ZTzTopia@master
+        uses: ZTzTopia/metrics@master
         with:
           template: markdown
           filename: README.md
