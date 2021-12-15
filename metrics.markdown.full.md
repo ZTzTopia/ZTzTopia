@@ -1,16 +1,14 @@
 **[📰 Recent activity](https://github.com/ZTzTopia)**
 * ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#3567000](https://github.com/ZTzTopia/ZTzTopia/commit/3567000) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
+* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#e9c5dbf](https://github.com/ZTzTopia/ZTzTopia/commit/e9c5dbf) Test 20
+* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#3014afd](https://github.com/ZTzTopia/ZTzTopia/commit/3014afd) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
+* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#e86da15](https://github.com/ZTzTopia/ZTzTopia/commit/e86da15) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#2d93761](https://github.com/ZTzTopia/ZTzTopia/commit/2d93761) Test 17
-* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#c016d6e](https://github.com/ZTzTopia/ZTzTopia/commit/c016d6e) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#7998fb5](https://github.com/ZTzTopia/ZTzTopia/commit/7998fb5) Test 15
-* ➡️ Pushed 3 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#288ec0d](https://github.com/ZTzTopia/ZTzTopia/commit/288ec0d) Test 14
-  * [#8d0c0c6](https://github.com/ZTzTopia/ZTzTopia/commit/8d0c0c6) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
-  * [#4aa0b84](https://github.com/ZTzTopia/ZTzTopia/commit/4aa0b84) Test 14
 
 
 
@@ -43,392 +41,80 @@
   **Projects activity**
           
             
-  GTLauncher...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~30 hours
+                  ~ 30 hours 22 mins
             
-  Profile...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~1 hours
+                     ~ 9 mins
             
-  GTIntercherAndroid...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-  ~1 hours
+          ~ 5 mins
             
-  cpp001...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~1 hours
+                      ~ 2 mins
             
-  src...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~1 hours
+                         ~ 2 mins
             
           
         
   **Language activity**
           
             
-  C++...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~21 hours
+                         ~ 21 hours 50 mins
             
-  Java...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~6 hours
+                        ~ 6 hours 23 mins
             
-  ObjectiveC...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~3 hours
+                  ~ 3 hours 6 mins
             
-  Properties...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~1 hours
+                  ~ 46 mins
             
-  Makefile...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~1 hours
+                    ~ 9 mins
             
           
         
@@ -437,116 +123,31 @@
   **Code editors**
           
             
-  Android Studio...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~30 hours
+              ~ 30 hours 27 mins
             
-  VS Code...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~1 hours
+                     ~ 12 mins
             
           
         
   **Operating systems**
           
             
-  Windows...
               
-   
               
-   
               
-   
               
-   
               
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-   
-              
-  ~30 hours
+                     ~ 30 hours 38 mins
             
           
         
