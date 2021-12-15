@@ -21,8 +21,11 @@ jobs:
           markdown: TEST.md
           markdown_cache: .cache
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_activity: no
+          plugin_activity: yes
           plugin_activity_days: 0
+          plugin_wakatime: yes
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_user: ZTzTopia
           output_action: pull-request
           delay: 20
     
