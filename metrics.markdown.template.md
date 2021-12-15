@@ -32,11 +32,14 @@
   **<%= {languages:"Language activity", projects:"Projects activity", editors:"Code editors", os:"Operating systems"}[key] %>**
           <% if (section?.length) { %>
             <% for (const {name, percent, total} of section) { %>
-  <%= name %>
-  ~<%= f(Math.ceil(total)) %> hour<%= s(total) %>
+  <%= name.slice(0, 22) + '...'; %>
+              <% for (let k = 0; k < 25 - name.length; k++) { %>
+  <%= " " %>
+              <% } %>
+  ~<%= f(Math.ceil(total / (60 * 60))) %> hour<%= s(total/ (60 * 60)) %>
             <% } %>
           <% } else { %>
-            No activity
+            No WakaTime activity
           <% } %>
         <% } %>
     <% }} %>
