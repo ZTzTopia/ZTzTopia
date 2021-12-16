@@ -22,57 +22,20 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#266be53](https://github.com/ZTzTopia/ZTzTopia/commit/266be53) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
+* 🍽️ Forked [lowlighter/metrics](https://github.com/lowlighter/metrics) to [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics)
 * ➡️ Pushed 1 commit in [ZTzTopia/ztztopia.github.io](https://github.com/ZTzTopia/ztztopia.github.io) on branch `master`
   * [#85db7b3](https://github.com/ZTzTopia/ztztopia.github.io/commit/85db7b3) Delete .github directory
 * ➡️ Pushed 1 commit in [ZTzTopia/ztztopia.github.io](https://github.com/ZTzTopia/ztztopia.github.io) on branch `master`
   * [#987f3fa](https://github.com/ZTzTopia/ztztopia.github.io/commit/987f3fa) Update index.min.js
 * ➡️ Pushed 1 commit in [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics) on branch `master`
   * [#5830deb](https://github.com/ZTzTopia/metrics/commit/5830deb) Update wakatime.ejs
-* ➡️ Pushed 1 commit in [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics) on branch `master`
-  * [#c89aae1](https://github.com/ZTzTopia/metrics/commit/c89aae1) Update wakatime.ejs
-* ➡️ Pushed 4 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#6398d20](https://github.com/ZTzTopia/ZTzTopia/commit/6398d20) Wrong lol
-  * [#1902632](https://github.com/ZTzTopia/ZTzTopia/commit/1902632) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
-  * [#e12d33b](https://github.com/ZTzTopia/ZTzTopia/commit/e12d33b) w
-  * [#3e78366](https://github.com/ZTzTopia/ZTzTopia/commit/3e78366) Auto-generated metrics for run #1582192471 (#19)
 
-* Update metrics.markdown.full.md - [Skip GitHub Action]
-
-* Update metrics.plugin.activity.svg - [Skip GitHub Action]
-
-Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
-
-**⏰ WakaTime (over last week)**
-* ~35 coding hours recorded
-* Working on GTLauncher
-* Mostly coding in C++
-* ~7 hours of coding per day
-* Coding with Android Studio
-* Using Windows
-
-```
-Projects activity
-GTLauncher                ~31 hours 18 mins    ██████████████████████░░░░  87%
-Profile                   ~5 hours 8 mins      ███░░░░░░░░░░░░░░░░░░░░░░░  12%
-metrics                   ~14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░░  1%
-GTIntercherAndroid        ~6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
-cpp001                    ~2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
-
-💬 Language activity
-C++                       ~22 hours 31 mins    ███████████████░░░░░░░░░░░  62%
-Java                      ~6 hours 23 mins     ████░░░░░░░░░░░░░░░░░░░░░░  15%
-Markdown                  ~3 hours 39 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░  8%
-ObjectiveC                ~3 hours 18 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░  7%
-YAML                      ~59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░░  3%
-
-Code editors
-Android Studio            ~31 hours 24 mins    ██████████████████████░░░░  87%
-VS Code                   ~5 hours 25 mins     ███░░░░░░░░░░░░░░░░░░░░░░░  13%
-
-💻 Operating systems
-Windows                   ~35 hours 48 mins    █████████████████████████░  100%
-```
-
+<div align="left">
+    <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
+    <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.wakatime.svg">
+</div>
 
 ## 💻 Connect with me
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ZTzTopia702)
