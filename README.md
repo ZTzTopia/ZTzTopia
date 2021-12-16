@@ -22,6 +22,10 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 1 commit in [ZTzTopia/ztztopia.github.io](https://github.com/ZTzTopia/ztztopia.github.io) on branch `master`
+  * [#85db7b3](https://github.com/ZTzTopia/ztztopia.github.io/commit/85db7b3) Delete .github directory
+* ➡️ Pushed 1 commit in [ZTzTopia/ztztopia.github.io](https://github.com/ZTzTopia/ztztopia.github.io) on branch `master`
+  * [#987f3fa](https://github.com/ZTzTopia/ztztopia.github.io/commit/987f3fa) Update index.min.js
 * ➡️ Pushed 1 commit in [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics) on branch `master`
   * [#5830deb](https://github.com/ZTzTopia/metrics/commit/5830deb) Update wakatime.ejs
 * ➡️ Pushed 1 commit in [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics) on branch `master`
@@ -37,40 +41,36 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 * Update metrics.plugin.activity.svg - [Skip GitHub Action]
 
 Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.noreply.github.com&gt;
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#0b0f168](https://github.com/ZTzTopia/ZTzTopia/commit/0b0f168) Delete metrics.plugin.wakatime.svg
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#31b2913](https://github.com/ZTzTopia/ZTzTopia/commit/31b2913) Delete metrics.plugin.activity.svg
 
 **⏰ WakaTime (over last week)**
-* ~30 coding hours recorded
+* ~35 coding hours recorded
 * Working on GTLauncher
 * Mostly coding in C++
-* ~8 hours of coding per day
+* ~7 hours of coding per day
 * Coding with Android Studio
 * Using Windows
 
 ```
 Projects activity
-GTLauncher                ~30 hours 22 mins    █████████████████████████░  99%
-Profile                   ~9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
-GTIntercherAndroid        ~5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
+GTLauncher                ~31 hours 18 mins    ██████████████████████░░░░  87%
+Profile                   ~5 hours 8 mins      ███░░░░░░░░░░░░░░░░░░░░░░░  12%
+metrics                   ~14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░░  1%
+GTIntercherAndroid        ~6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 cpp001                    ~2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
-src                       ~2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  0%
 
 💬 Language activity
-C++                       ~21 hours 50 mins    ██████████████████░░░░░░░░  70%
-Java                      ~6 hours 23 mins     █████░░░░░░░░░░░░░░░░░░░░░  18%
-ObjectiveC                ~3 hours 6 mins      ██░░░░░░░░░░░░░░░░░░░░░░░░  7%
-Properties                ~46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░░  3%
-Makefile                  ~9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░░  1%
+C++                       ~22 hours 31 mins    ███████████████░░░░░░░░░░░  62%
+Java                      ~6 hours 23 mins     ████░░░░░░░░░░░░░░░░░░░░░░  15%
+Markdown                  ~3 hours 39 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░  8%
+ObjectiveC                ~3 hours 18 mins     ██░░░░░░░░░░░░░░░░░░░░░░░░  7%
+YAML                      ~59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░░  3%
 
 Code editors
-Android Studio            ~30 hours 27 mins    █████████████████████████░  99%
-VS Code                   ~12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░░  1%
+Android Studio            ~31 hours 24 mins    ██████████████████████░░░░  87%
+VS Code                   ~5 hours 25 mins     ███░░░░░░░░░░░░░░░░░░░░░░░  13%
 
 💻 Operating systems
-Windows                   ~30 hours 38 mins    █████████████████████████░  100%
+Windows                   ~35 hours 48 mins    █████████████████████████░  100%
 ```
 
 
