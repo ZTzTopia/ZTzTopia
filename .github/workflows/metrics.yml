@@ -12,9 +12,17 @@ jobs:
       # 🖼️ TEMPLATES
       # ======================================================================================
 
+      - name: 📗 Classic template
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.classic.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          output_action: pull-request
+
       - name: 📒 Markdown template (with plugins)
         if: ${{ success() || failure() }}
-        uses: ZTzTopia/metrics@master
+        uses: lowlighter/metrics@master
         with:
           template: markdown
           filename: README.md
@@ -22,6 +30,21 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
           plugin_activity_days: 0
+          output_action: pull-request
+
+      # ======================================================================================
+      # 🧩 PLUGINS
+      # ======================================================================================
+
+      # ======================================================================================
+      # ⏰ WakaTime plugin
+
+      - name: ⏰ WakaTime
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.wakatime.svg
+          token: NOT_NEEDED
           plugin_wakatime: yes
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, editors-graphs, os, os-graphs 
