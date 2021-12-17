@@ -18,6 +18,7 @@ jobs:
         with:
           filename: metrics.classic.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          template: classic
           output_action: pull-request
 
       - name: 📒 Markdown template (with plugins)
