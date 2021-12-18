@@ -22,6 +22,7 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [GuckTubeYT/HTTPServer](https://github.com/GuckTubeYT/HTTPServer)
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#e7742ca](https://github.com/ZTzTopia/ZTzTopia/commit/e7742ca) Update metrics.yml
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
@@ -29,8 +30,6 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 * ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#266be53](https://github.com/ZTzTopia/ZTzTopia/commit/266be53) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
 * 🍽️ Forked [lowlighter/metrics](https://github.com/lowlighter/metrics) to [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics)
-* ➡️ Pushed 1 commit in [ZTzTopia/ztztopia.github.io](https://github.com/ZTzTopia/ztztopia.github.io) on branch `master`
-  * [#85db7b3](https://github.com/ZTzTopia/ztztopia.github.io/commit/85db7b3) Delete .github directory
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
