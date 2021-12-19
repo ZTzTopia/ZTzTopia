@@ -22,14 +22,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal)
+* 🌟 Starred [lukechilds/refind-ambience](https://github.com/lukechilds/refind-ambience)
 * 🌟 Starred [GuckTubeYT/HTTPServer](https://github.com/GuckTubeYT/HTTPServer)
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#e7742ca](https://github.com/ZTzTopia/ZTzTopia/commit/e7742ca) Update metrics.yml
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#40bf0ca](https://github.com/ZTzTopia/ZTzTopia/commit/40bf0ca) Update metrics.yml
-* ➡️ Pushed 2 commits in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#266be53](https://github.com/ZTzTopia/ZTzTopia/commit/266be53) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/ZTzTopia
-* 🍽️ Forked [lowlighter/metrics](https://github.com/lowlighter/metrics) to [ZTzTopia/metrics](https://github.com/ZTzTopia/metrics)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
