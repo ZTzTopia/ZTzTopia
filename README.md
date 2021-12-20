@@ -22,13 +22,11 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* 🌟 Starred [evanpurkhiser/rEFInd-minimal](https://github.com/evanpurkhiser/rEFInd-minimal)
-* 🌟 Starred [lukechilds/refind-ambience](https://github.com/lukechilds/refind-ambience)
-* 🌟 Starred [GuckTubeYT/HTTPServer](https://github.com/GuckTubeYT/HTTPServer)
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#e7742ca](https://github.com/ZTzTopia/ZTzTopia/commit/e7742ca) Update metrics.yml
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#40bf0ca](https://github.com/ZTzTopia/ZTzTopia/commit/40bf0ca) Update metrics.yml
+* 🌟 Starred [siduck/dotfiles](https://github.com/siduck/dotfiles)
+* 🌟 Starred [vercel/hyper](https://github.com/vercel/hyper)
+* 🌟 Starred [aftertheflood/sparks](https://github.com/aftertheflood/sparks)
+* 🌟 Starred [figs-lab/datalegreya](https://github.com/figs-lab/datalegreya)
+* 🌟 Starred [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
