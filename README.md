@@ -22,11 +22,11 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [PaperMC/Paper](https://github.com/PaperMC/Paper)
 * 🌟 Starred [codic12/worm](https://github.com/codic12/worm)
 * 🌟 Starred [siduck/dotfiles](https://github.com/siduck/dotfiles)
 * 🌟 Starred [vercel/hyper](https://github.com/vercel/hyper)
 * 🌟 Starred [aftertheflood/sparks](https://github.com/aftertheflood/sparks)
-* 🌟 Starred [figs-lab/datalegreya](https://github.com/figs-lab/datalegreya)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
