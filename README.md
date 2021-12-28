@@ -22,11 +22,11 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)
+* 🌟 Starred [Kungger-git/movies-dl](https://github.com/Kungger-git/movies-dl)
+* 🌟 Starred [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)
 * 🌟 Starred [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
 * 🌟 Starred [Jguer/yay](https://github.com/Jguer/yay)
-* 🌟 Starred [pagankeymaster/nordfiles](https://github.com/pagankeymaster/nordfiles)
-* 🌟 Starred [pagankeymaster/lambda-rofi](https://github.com/pagankeymaster/lambda-rofi)
-* 🌟 Starred [PaperMC/Paper](https://github.com/PaperMC/Paper)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
