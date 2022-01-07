@@ -22,11 +22,11 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+* 🌟 Starred [yousefvand/secret-service](https://github.com/yousefvand/secret-service)
 * 🌟 Starred [openmultiplayer/RakNet](https://github.com/openmultiplayer/RakNet)
 * 🌟 Starred [zKevz/PixelWorldProxy](https://github.com/zKevz/PixelWorldProxy)
 * 🌟 Starred [zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)
-* 🌟 Starred [Kungger-git/movies-dl](https://github.com/Kungger-git/movies-dl)
-* 🌟 Starred [ja-netfilter/ja-netfilter](https://github.com/ja-netfilter/ja-netfilter)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
