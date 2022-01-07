@@ -14,8 +14,6 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/c/c-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cmake/cmake-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vscode/vscode-original.svg" width="32" />
@@ -24,11 +22,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* 🌟 Starred [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-* 🌟 Starred [yousefvand/secret-service](https://github.com/yousefvand/secret-service)
-* 🌟 Starred [openmultiplayer/RakNet](https://github.com/openmultiplayer/RakNet)
-* 🌟 Starred [zKevz/PixelWorldProxy](https://github.com/zKevz/PixelWorldProxy)
-* 🌟 Starred [zfkun/ja-netfilter-mymap-plugin](https://github.com/zfkun/ja-netfilter-mymap-plugin)
+* 🌟 Starred [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia)
+* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#19bb5ac](https://github.com/ZTzTopia/ZTzTopia/commit/19bb5ac) Update metrics.yml
+* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#1778289](https://github.com/ZTzTopia/ZTzTopia/commit/1778289) Update README.md
+* 🍽️ Forked [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) to [ZTzTopia/commitlint](https://github.com/ZTzTopia/commitlint)
+* 🌟 Starred [carloscuesta/gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
