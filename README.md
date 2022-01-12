@@ -22,13 +22,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [openmultiplayer/web](https://github.com/openmultiplayer/web)
 * 🌟 Starred [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
 * 🌟 Starred [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia)
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#19bb5ac](https://github.com/ZTzTopia/ZTzTopia/commit/19bb5ac) Update metrics.yml
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#1778289](https://github.com/ZTzTopia/ZTzTopia/commit/1778289) Update README.md
-* 🍽️ Forked [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint) to [ZTzTopia/commitlint](https://github.com/ZTzTopia/commitlint)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
