@@ -22,13 +22,14 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* 🌟 Starred [openmultiplayer/web](https://github.com/openmultiplayer/web)
-* 🌟 Starred [conventional-changelog/commitlint](https://github.com/conventional-changelog/commitlint)
-* 🌟 Starred [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia)
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#19bb5ac](https://github.com/ZTzTopia/ZTzTopia/commit/19bb5ac) Update metrics.yml
-* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
-  * [#1778289](https://github.com/ZTzTopia/ZTzTopia/commit/1778289) Update README.md
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#f65f349](https://github.com/ZTzTopia/GTIntercherAndroid/commit/f65f349) Fix crash while login
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#c2a6a38](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c2a6a38) Make checkbox more bigger
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#c57ac13](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c57ac13) Fix category text
+* ⏺️ Created new tag v0.0.3 in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
+* 📦 Released **GTIntercherAndroid 0.0.3** of [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
