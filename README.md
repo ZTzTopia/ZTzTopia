@@ -22,6 +22,7 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#f65f349](https://github.com/ZTzTopia/GTIntercherAndroid/commit/f65f349) Fix crash while login
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
@@ -29,7 +30,6 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#c57ac13](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c57ac13) Fix category text
 * ⏺️ Created new tag v0.0.3 in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
-* 📦 Released **GTIntercherAndroid 0.0.3** of [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
