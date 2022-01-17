@@ -22,14 +22,14 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* 🌟 Starred [nuxshed/dotfiles](https://github.com/nuxshed/dotfiles)
-* 🌟 Starred [HankiDesign/awesome-dear-imgui](https://github.com/HankiDesign/awesome-dear-imgui)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#f65f349](https://github.com/ZTzTopia/GTIntercherAndroid/commit/f65f349) Fix crash while login
+  * [#55841c3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/55841c3) Add termux link
+* 🌟 Starred [NVlabs/instant-ngp](https://github.com/NVlabs/instant-ngp)
+* 🌟 Starred [files-community/Files](https://github.com/files-community/Files)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#c2a6a38](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c2a6a38) Make checkbox more bigger
+  * [#231a2c7](https://github.com/ZTzTopia/GTIntercherAndroid/commit/231a2c7) Update README.md
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#c57ac13](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c57ac13) Fix category text
+  * [#5c90b7c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/5c90b7c) Remove windows build tutorial
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
