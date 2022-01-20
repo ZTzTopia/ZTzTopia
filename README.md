@@ -22,20 +22,12 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* ➡️ Pushed 1 commit in [ZTzTopia/GTInternalAndroid](https://github.com/ZTzTopia/GTInternalAndroid) on branch `master`
-  * [#2a4288b](https://github.com/ZTzTopia/GTInternalAndroid/commit/2a4288b) v0.1.0, oh soft input :(
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#41b3e11](https://github.com/ZTzTopia/GTIntercherAndroid/commit/41b3e11) oops
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#9b2e612](https://github.com/ZTzTopia/GTIntercherAndroid/commit/9b2e612) fix soft input
-
-added max text length to softinput.
-fix text flickering when you write so fast.
-fixed select all and delete text but the text in text input is not deleted.
-* ➡️ Pushed 2 commits in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#7d60665](https://github.com/ZTzTopia/GTIntercherAndroid/commit/7d60665) Merge branch &#39;master&#39; of https://github.com/ZTzTopia/GTIntercherAndroid
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#55841c3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/55841c3) Add termux link
+* 🌟 Starred [opengapps/opengapps](https://github.com/opengapps/opengapps)
+* ⏺️ Created new tag v0.0.3 in [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid)
+* 📦 Released **GTLauncherAndroid 0.0.3** of [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid)
+* ➡️ Pushed 1 commit in [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid) on branch `master`
+  * [#5434013](https://github.com/ZTzTopia/GTLauncherAndroid/commit/5434013) v0.0.3
+* 🌟 Starred [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
