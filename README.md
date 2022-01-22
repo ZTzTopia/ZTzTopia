@@ -22,12 +22,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [Lzhiyong/termux-ndk](https://github.com/Lzhiyong/termux-ndk)
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#ada4a36](https://github.com/ZTzTopia/GTIntercherAndroid/commit/ada4a36) add lua api and lua error log window
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#a4f0d03](https://github.com/ZTzTopia/GTIntercherAndroid/commit/a4f0d03) remove unnecessary code
 * 🌟 Starred [opengapps/opengapps](https://github.com/opengapps/opengapps)
 * ⏺️ Created new tag v0.0.3 in [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid)
-* 📦 Released **GTLauncherAndroid 0.0.3** of [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid)
-* ➡️ Pushed 1 commit in [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid) on branch `master`
-  * [#5434013](https://github.com/ZTzTopia/GTLauncherAndroid/commit/5434013) v0.0.3
-* 🌟 Starred [microsoft/vscode](https://github.com/microsoft/vscode)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
