@@ -22,13 +22,22 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* 🌟 Starred [Lzhiyong/termux-ndk](https://github.com/Lzhiyong/termux-ndk)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#ada4a36](https://github.com/ZTzTopia/GTIntercherAndroid/commit/ada4a36) add lua api and lua error log window
+  * [#5965e1c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/5965e1c) some fix
+
+fix memory read return blank value.
+fix memory write crash.
+fix pattern scan return wrong address.
+add getAddressFromSymbol api.
+add compareData api.
+small ui changes.
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#a4f0d03](https://github.com/ZTzTopia/GTIntercherAndroid/commit/a4f0d03) remove unnecessary code
-* 🌟 Starred [opengapps/opengapps](https://github.com/opengapps/opengapps)
-* ⏺️ Created new tag v0.0.3 in [ZTzTopia/GTLauncherAndroid](https://github.com/ZTzTopia/GTLauncherAndroid)
+  * [#a8d0bb3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/a8d0bb3) fix pattern scan
+* 💬 Commented on [#61 Sup, you do good work...](https://github.com/ZTzTopia/ZTzTopia/issues/61) from [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia)
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#9cd6dd3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/9cd6dd3) make the close button rounded
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#1d4baf5](https://github.com/ZTzTopia/GTIntercherAndroid/commit/1d4baf5) add new lua api and fix lua log
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
