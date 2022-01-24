@@ -23,21 +23,14 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#5965e1c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/5965e1c) some fix
-
-fix memory read return blank value.
-fix memory write crash.
-fix pattern scan return wrong address.
-add getAddressFromSymbol api.
-add compareData api.
-small ui changes.
+  * [#41806ab](https://github.com/ZTzTopia/GTIntercherAndroid/commit/41806ab) fix lua sleep
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#a8d0bb3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/a8d0bb3) fix pattern scan
-* 💬 Commented on [#61 Sup, you do good work...](https://github.com/ZTzTopia/ZTzTopia/issues/61) from [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia)
+  * [#431fce3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/431fce3) update to lua 5.4.4-rc3
+* 🌟 Starred [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#9cd6dd3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/9cd6dd3) make the close button rounded
+  * [#82b2765](https://github.com/ZTzTopia/GTIntercherAndroid/commit/82b2765) make the lua script can be stopped if hangs because of c++ code
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#1d4baf5](https://github.com/ZTzTopia/GTIntercherAndroid/commit/1d4baf5) add new lua api and fix lua log
+  * [#c18ec97](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c18ec97) update lua api docs
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
