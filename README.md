@@ -22,6 +22,7 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [GuckTubeYT/PhotoshopTrial](https://github.com/GuckTubeYT/PhotoshopTrial)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#41806ab](https://github.com/ZTzTopia/GTIntercherAndroid/commit/41806ab) fix lua sleep
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
@@ -29,8 +30,6 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 * 🌟 Starred [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#82b2765](https://github.com/ZTzTopia/GTIntercherAndroid/commit/82b2765) make the lua script can be stopped if hangs because of c++ code
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#c18ec97](https://github.com/ZTzTopia/GTIntercherAndroid/commit/c18ec97) update lua api docs
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
