@@ -22,14 +22,15 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 1 commit in [ZTzTopia/LatieDiscordBot](https://github.com/ZTzTopia/LatieDiscordBot) on branch `master`
+  * [#83fd3fb](https://github.com/ZTzTopia/LatieDiscordBot/commit/83fd3fb) add help command
+* ➡️ Pushed 1 commit in [ZTzTopia/LatieDiscordBot](https://github.com/ZTzTopia/LatieDiscordBot) on branch `master`
+  * [#67a98c6](https://github.com/ZTzTopia/LatieDiscordBot/commit/67a98c6) add module command
+* ➡️ Pushed 1 commit in [ZTzTopia/LatieDiscordBot](https://github.com/ZTzTopia/LatieDiscordBot) on branch `master`
+  * [#76e7fe8](https://github.com/ZTzTopia/LatieDiscordBot/commit/76e7fe8) check if member have permission to change prefix
 * 🌟 Starred [GuckTubeYT/PhotoshopTrial](https://github.com/GuckTubeYT/PhotoshopTrial)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#41806ab](https://github.com/ZTzTopia/GTIntercherAndroid/commit/41806ab) fix lua sleep
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#431fce3](https://github.com/ZTzTopia/GTIntercherAndroid/commit/431fce3) update to lua 5.4.4-rc3
-* 🌟 Starred [kdrag0n/safetynet-fix](https://github.com/kdrag0n/safetynet-fix)
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#82b2765](https://github.com/ZTzTopia/GTIntercherAndroid/commit/82b2765) make the lua script can be stopped if hangs because of c++ code
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
