@@ -22,14 +22,17 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#64c1d2c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/64c1d2c) wtf?
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#784a849](https://github.com/ZTzTopia/GTIntercherAndroid/commit/784a849) fix input text layout problem
+
+this bug happened in original growtopia so I FIXED IT.
 * 🌟 Starred [marktext/marktext](https://github.com/marktext/marktext)
 * ➡️ Pushed 1 commit in [ZTzTopia/LatieDiscordBot](https://github.com/ZTzTopia/LatieDiscordBot) on branch `master`
   * [#83fd3fb](https://github.com/ZTzTopia/LatieDiscordBot/commit/83fd3fb) add help command
 * ➡️ Pushed 1 commit in [ZTzTopia/LatieDiscordBot](https://github.com/ZTzTopia/LatieDiscordBot) on branch `master`
   * [#67a98c6](https://github.com/ZTzTopia/LatieDiscordBot/commit/67a98c6) add module command
-* ➡️ Pushed 1 commit in [ZTzTopia/LatieDiscordBot](https://github.com/ZTzTopia/LatieDiscordBot) on branch `master`
-  * [#76e7fe8](https://github.com/ZTzTopia/LatieDiscordBot/commit/76e7fe8) check if member have permission to change prefix
-* 🌟 Starred [GuckTubeYT/PhotoshopTrial](https://github.com/GuckTubeYT/PhotoshopTrial)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
