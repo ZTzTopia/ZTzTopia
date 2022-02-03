@@ -22,15 +22,11 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
+* 🌟 Starred [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
+* 🌟 Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
 * 🌟 Starred [PolyhedralDev/Terra](https://github.com/PolyhedralDev/Terra)
 * 🌟 Starred [RicBent/Classy](https://github.com/RicBent/Classy)
-* 🌟 Starred [svenhjol/Charmonium](https://github.com/svenhjol/Charmonium)
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#64c1d2c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/64c1d2c) wtf?
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#784a849](https://github.com/ZTzTopia/GTIntercherAndroid/commit/784a849) fix input text layout problem
-
-this bug happened in original growtopia so I FIXED IT.
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
