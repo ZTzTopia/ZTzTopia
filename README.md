@@ -22,11 +22,16 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
-* 🌟 Starred [LawnchairLauncher/lawnicons](https://github.com/LawnchairLauncher/lawnicons)
-* 🌟 Starred [LawnchairLauncher/lawnchair](https://github.com/LawnchairLauncher/lawnchair)
-* 🌟 Starred [cheeriojs/cheerio](https://github.com/cheeriojs/cheerio)
-* 🌟 Starred [PolyhedralDev/Terra](https://github.com/PolyhedralDev/Terra)
-* 🌟 Starred [RicBent/Classy](https://github.com/RicBent/Classy)
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#f6fe2c9](https://github.com/ZTzTopia/GTIntercherAndroid/commit/f6fe2c9) delete Logcat.java
+* 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
+  * _Sidebar
+* 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
+  * Home
+* 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
+  * Lua Api
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#e9dd8ee](https://github.com/ZTzTopia/GTIntercherAndroid/commit/e9dd8ee) make gradlew executable
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
