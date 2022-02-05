@@ -22,16 +22,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* #️⃣ Opened [#2 a](https://github.com/ZTzTopia/GTIntercherAndroid/issues/2) in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
+* 🌟 Starred [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch)
+* 💬 Commented on [#1 When login into Gowtopia the GTL apps crash ](https://github.com/ZTzTopia/GTIntercherAndroid/issues/1) from [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#f6fe2c9](https://github.com/ZTzTopia/GTIntercherAndroid/commit/f6fe2c9) delete Logcat.java
 * 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
   * _Sidebar
-* 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
-  * Home
-* 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
-  * Lua Api
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#e9dd8ee](https://github.com/ZTzTopia/GTIntercherAndroid/commit/e9dd8ee) make gradlew executable
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
