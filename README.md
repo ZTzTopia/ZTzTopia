@@ -22,13 +22,20 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#90a698a](https://github.com/ZTzTopia/GTIntercherAndroid/commit/90a698a) some changes
+
+* Remove tapjoyconnectlibrary.jar and use tapjoy maven sdk?
+* Update proguard-rules.pro
+* Fix MakeToastUI error and replace to Toast.makeText
+* Change app launcher icon
+* Add onStartCommand so the Service doesn&#39;t try to recreate itself when the App is closed
+* Added CrashHandler. Logs will be saved on /storage/emulated/0/Documents for Android 10 and above and /storage/emulated/0/Android/data/(package name)/ for Android 9 and below. Currently it does not catch native crashes if lib crashed
+* 🌟 Starred [jgraph/drawio](https://github.com/jgraph/drawio)
+* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
+  * [#ce03d1c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/ce03d1c) make mod menu version in gui follow versionName in build.gradle
 * #️⃣ Opened [#2 a](https://github.com/ZTzTopia/GTIntercherAndroid/issues/2) in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
 * 🌟 Starred [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch)
-* 💬 Commented on [#1 When login into Gowtopia the GTL apps crash ](https://github.com/ZTzTopia/GTIntercherAndroid/issues/1) from [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#f6fe2c9](https://github.com/ZTzTopia/GTIntercherAndroid/commit/f6fe2c9) delete Logcat.java
-* 📝 Updated 1 wiki page in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid/wiki)
-  * _Sidebar
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
