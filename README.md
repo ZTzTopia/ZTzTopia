@@ -22,6 +22,7 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* 🌟 Starred [Zackptg5/MMT-Extended](https://github.com/Zackptg5/MMT-Extended)
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#90a698a](https://github.com/ZTzTopia/GTIntercherAndroid/commit/90a698a) some changes
 
@@ -35,7 +36,6 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 * ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
   * [#ce03d1c](https://github.com/ZTzTopia/GTIntercherAndroid/commit/ce03d1c) make mod menu version in gui follow versionName in build.gradle
 * #️⃣ Opened [#2 a](https://github.com/ZTzTopia/GTIntercherAndroid/issues/2) in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
-* 🌟 Starred [skittles9823/QuickSwitch](https://github.com/skittles9823/QuickSwitch)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
