@@ -46,8 +46,10 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: metrics.plugin.activity.svg
+          base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
+          plugin_activity_days: 1
           plugin_activity_visibility: no
           plugin_activity_timestamps: yes
   
