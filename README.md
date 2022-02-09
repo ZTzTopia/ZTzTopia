@@ -14,6 +14,8 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/c/c-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cmake/cmake-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vscode/vscode-original.svg" width="32" />
@@ -22,19 +24,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
+* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#bc90b77](https://github.com/ZTzTopia/ZTzTopia/commit/bc90b77) Add recent activity
+* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#20c1505](https://github.com/ZTzTopia/ZTzTopia/commit/20c1505) Update metrics.markdown.template.md
 * 🌟 Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 * 🌟 Starred [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
 * 🌟 Starred [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
-* 🌟 Starred [Zackptg5/MMT-Extended](https://github.com/Zackptg5/MMT-Extended)
-* ➡️ Pushed 1 commit in [ZTzTopia/GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid) on branch `master`
-  * [#90a698a](https://github.com/ZTzTopia/GTIntercherAndroid/commit/90a698a) some changes
-
-* Remove tapjoyconnectlibrary.jar and use tapjoy maven sdk?
-* Update proguard-rules.pro
-* Fix MakeToastUI error and replace to Toast.makeText
-* Change app launcher icon
-* Add onStartCommand so the Service doesn&#39;t try to recreate itself when the App is closed
-* Added CrashHandler. Logs will be saved on /storage/emulated/0/Documents for Android 10 and above and /storage/emulated/0/Android/data/(package name)/ for Android 9 and below. Currently it does not catch native crashes if lib crashed
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
