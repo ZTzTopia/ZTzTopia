@@ -39,6 +39,19 @@ jobs:
       # ======================================================================================
 
       # ======================================================================================
+      # ⚡ Recent activity plugin
+      
+      - name: ⚡ Recent activity
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.activity.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          plugin_activity: yes
+          plugin_activity_visibility: no
+          plugin_activity_timestamps: yes
+  
+      # ======================================================================================
       # ⏰ WakaTime plugin
 
       - name: ⏰ WakaTime
