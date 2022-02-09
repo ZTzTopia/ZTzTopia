@@ -2,7 +2,9 @@ name: Metrics
 on:
   schedule:
     - cron: '0 0 * * *'
+    
   workflow_dispatch:
+  
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
@@ -30,8 +32,6 @@ jobs:
           filename: README.md
           markdown: metrics.markdown.template.md
           token: ${{ secrets.METRICS_TOKEN }}
-          plugin_activity: yes
-          plugin_activity_days: 0
           output_action: pull-request
 
       # ======================================================================================
@@ -49,7 +49,7 @@ jobs:
           base: ""
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_activity: yes
-          plugin_activity_days: 1
+          plugin_activity_days: 2
           plugin_activity_visibility: no
           plugin_activity_timestamps: yes
   
