@@ -25,12 +25,13 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 ## ⚡ My stats
 **[📰 Recent activity](https://github.com/ZTzTopia)**
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
+  * [#2daaa8b](https://github.com/ZTzTopia/ZTzTopia/commit/2daaa8b) update recent activity
+* ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#bc90b77](https://github.com/ZTzTopia/ZTzTopia/commit/bc90b77) Add recent activity
 * ➡️ Pushed 1 commit in [ZTzTopia/ZTzTopia](https://github.com/ZTzTopia/ZTzTopia) on branch `master`
   * [#20c1505](https://github.com/ZTzTopia/ZTzTopia/commit/20c1505) Update metrics.markdown.template.md
 * 🌟 Starred [koalaman/shellcheck](https://github.com/koalaman/shellcheck)
 * 🌟 Starred [DUpdateSystem/UpgradeAll](https://github.com/DUpdateSystem/UpgradeAll)
-* 🌟 Starred [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
 
 <div align="left">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
