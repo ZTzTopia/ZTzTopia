@@ -23,8 +23,8 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
 </div>
 
 ## ⚡ My stats
-<%- await include(`partials/activity.ejs`) %>
 <div align="left">
+    <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.activity.svg">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.wakatime.svg">
 </div>
