@@ -5,7 +5,7 @@
 Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discordapp.com/attachments/773831752271527946/912953010408271902/323372.png" width="13" /> **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.
 - 🌱 I’m currently learning C/C++
-- 🤔 I’m looking for help with [GTInternalAndroid](https://github.com/ZTzTopia/GTInternalAndroid)
+- 🤔 I’m looking for help with [GTIntercherAndroid](https://github.com/ZTzTopia/GTIntercherAndroid)
 - 💬 Ask me about anything.
 - 📫 How to reach me: [zentay36@gmail.com](mailto:zentay36@gmail.com)
 
