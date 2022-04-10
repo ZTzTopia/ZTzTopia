@@ -16,10 +16,15 @@ Hi guys, I'm **ZTzTopia** (16 y.o) a developer from <img src="https://cdn.discor
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/rust/rust-plain.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/nodejs/nodejs-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cmake/cmake-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/visualstudio/visualstudio-plain.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/vscode/vscode-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/jetbrains/jetbrains-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/mysql/mysql-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/redis/redis-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/mongodb/mongodb-original.svg" width="32" />
 </div>
 
 ## ⚡ My stats
