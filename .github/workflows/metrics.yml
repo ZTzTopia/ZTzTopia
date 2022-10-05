@@ -67,3 +67,16 @@ jobs:
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_user: ZTzTopia
           output_action: pull-request-squash
+          
+       # ======================================================================================
+      # 🗳️ Leetcode plugin
+
+      - name: ⏰ Leetcode
+        if: ${{ success() || failure() }}
+        uses: lowlighter/metrics@master
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          plugin_leetcode: yes
+          plugin_leetcode_sections: solved, skills, recent
+          output_action: pull-request-squash
