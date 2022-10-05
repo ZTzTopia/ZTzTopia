@@ -37,6 +37,7 @@ Hi guys, I'm **ZTzTopia** (17 y.o) a developer from <img src="https://cdn.discor
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.activity.svg">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.classic.svg">
     <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.wakatime.svg">
+    <img width="390" alt="🦑" src="https://github.com/ZTzTopia/ZTzTopia/blob/master/metrics.plugin.leetcode.svg">
 </div>
 
 ## 💻 Connect with me
