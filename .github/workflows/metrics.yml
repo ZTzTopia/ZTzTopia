@@ -32,7 +32,6 @@ jobs:
           filename: README.md
           markdown: metrics.markdown.template.md
           token: ${{ secrets.METRICS_TOKEN }}
-          output_action: pull-request
 
       # ======================================================================================
       # 🧩 PLUGINS
@@ -66,7 +65,6 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
           plugin_wakatime_user: ZTzTopia
-          output_action: pull-request-squash
           
        # ======================================================================================
       # 🗳️ Leetcode plugin
