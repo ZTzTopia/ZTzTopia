@@ -29,6 +29,7 @@ Hi guys, I'm **ZTzTopia** (17 y.o) a developer from <img src="https://cdn.discor
 </div>-->
 
 ## 💻 Connect with me
+[![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ztztopia)
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ZTzTopia702)
 ![Discord](https://img.shields.io/badge/-ztz%232105-7289da?style=flat-square&logo=discord&logoColor=white)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/W6CssGTTK6)
