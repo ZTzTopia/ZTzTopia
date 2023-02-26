@@ -4,7 +4,7 @@
 
 Hi guys, I'm **ZTzTopia** (17 y.o) a developer from <img src="https://cdn.discordapp.com/attachments/773831752271527946/912953010408271902/323372.png" width="12" /> **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.
-- 🌱 I’m currently learning [.NET](https://dotnet.microsoft.com/) (C#)
+- 🌱 I’m currently learning [Kotlin](https://kotlinlang.org/)
 - 💬 Ask me about anything.
 - 📫 How to reach me: [zentay36@gmail.com](mailto:zentay36@gmail.com).
 - 😄 Pronouns: He/Him.
@@ -15,6 +15,7 @@ Hi guys, I'm **ZTzTopia** (17 y.o) a developer from <img src="https://cdn.discor
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/csharp/csharp-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/kotlin/kotlin-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/rust/rust-plain.svg" width="32" />
