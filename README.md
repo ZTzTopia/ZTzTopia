@@ -32,7 +32,7 @@ Hi guys, I'm **Muhamad Zibrisky** (17 y.o) a developer from <img src="https://cd
 ## 💻 Connect with me
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ztztopia)
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ZTzTopia702)
-![Discord](https://img.shields.io/badge/-ztz%232105-7289da?style=flat-square&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/-ztz%232105-7289da?style=flat-square&logo=discord&logoColor=white)](https://canary.discord.com/users/483215020801392650)
 [![Discord Server](https://img.shields.io/badge/-Discord%20Server-7289da?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/W6CssGTTK6)
 
 <!--
