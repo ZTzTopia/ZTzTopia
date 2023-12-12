@@ -18,7 +18,7 @@ Hi guys, I'm **Muhamad Zibrisky** (18 y.o) a developer from <img src="https://cd
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/kotlin/kotlin-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" width="32" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/rust/rust-plain.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/rust/rust-original.svg" width="32" />
 </div>
 
 <!--## ⚡ My stats
