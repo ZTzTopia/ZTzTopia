@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
-Hi guys, I'm **Muhamad Zibrisky** (18 y.o) a developer from <img src="https://cdn.discordapp.com/attachments/773831752271527946/912953010408271902/323372.png" width="12" /> **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
+Hi guys, I'm **Muhamad Zibrisky** (19 y.o) a developer from **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.<!-- - 🌱 I’m currently learning ?? -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: [zentay36@gmail.com](mailto:zentay36@gmail.com).
