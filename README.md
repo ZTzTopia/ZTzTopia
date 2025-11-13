@@ -2,7 +2,7 @@
 
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
-Hi guys, I'm **Muhamad Zibrisky** (19 y.o) a developer from **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
+Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool.<!-- - 🌱 I’m currently learning ?? -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: [zentay36@gmail.com](mailto:zentay36@gmail.com).
@@ -16,10 +16,12 @@ Hi guys, I'm **Muhamad Zibrisky** (19 y.o) a developer from **Tangerang, Indones
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/php/php-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/java/java-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/kotlin/kotlin-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/html5/html5-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/javascript/javascript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/typescript/typescript-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/rust/rust-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/go/go-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/python/python-original.svg" width="32" />
 </div>
 
 <!--## ⚡ My stats
