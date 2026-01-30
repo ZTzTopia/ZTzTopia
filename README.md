@@ -1,14 +1,15 @@
-# Hello there 👋
+<h1 align="center">Hello there 👋</h1>
 
 <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
 
 Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
-- 🔭 I’m currently working on something cool.<!-- - 🌱 I’m currently learning ?? -->
+- 🔭 I’m currently working on something cool. <!-- - 🌱 I’m currently learning ?? -->
 - 💬 Ask me about anything.
 - 📫 How to reach me: [zentay36@gmail.com](mailto:zentay36@gmail.com).
 - 😄 Pronouns: He/Him.
 
-## 🧑‍💻Languages
+## 🧑‍💻 Languages
+
 <div align="left">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/c/c-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/cplusplus/cplusplus-original.svg" width="32" />
@@ -22,6 +23,7 @@ Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indones
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/rust/rust-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/go/go-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/python/python-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/swift/swift-original.svg" width="32" />
 </div>
 
 <!--## ⚡ My stats
@@ -33,6 +35,8 @@ Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indones
 </div>-->
 
 ## 💻 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linked&logoColor=white)]([https://discord.gg/W6CssGTTK6](https://www.linkedin.com/in/zibrisky/))
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ztztopia)
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ZTzTopia702)
 [![Discord](https://img.shields.io/badge/-ztz-7289da?style=flat-square&logo=discord&logoColor=white)](https://canary.discord.com/users/483215020801392650)
