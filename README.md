@@ -36,7 +36,7 @@ Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indones
 
 ## 💻 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linked&logoColor=white)]([https://discord.gg/W6CssGTTK6](https://www.linkedin.com/in/zibrisky/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0a66c2?style=flat-square&logo=linked&logoColor=white)](https://www.linkedin.com/in/zibrisky/)
 [![Telegram](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ztztopia)
 [![Youtube](https://img.shields.io/badge/-Youtube-c4302b?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/c/ZTzTopia702)
 [![Discord](https://img.shields.io/badge/-ztz-7289da?style=flat-square&logo=discord&logoColor=white)](https://canary.discord.com/users/483215020801392650)
