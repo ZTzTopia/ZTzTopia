@@ -1,6 +1,6 @@
 <h1 align="center">Hello there 👋</h1>
 
-<img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" />
+<!-- <img align="right" src="https://media.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif" width="190" height="175" /> -->
 
 Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indonesia**. Contact me if you have same interesting or some questions!
 - 🔭 I’m currently working on something cool. <!-- - 🌱 I’m currently learning ?? -->
@@ -24,6 +24,7 @@ Hi guys, I'm **Muhamad Zibrisky** (20 y.o) a developer from **Tangerang, Indones
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/go/go-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/python/python-original.svg" width="32" />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/swift/swift-original.svg" width="32" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@develop/icons/zig/zig-original.svg" width="32" />
 </div>
 
 <!--## ⚡ My stats
